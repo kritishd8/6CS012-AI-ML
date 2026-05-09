@@ -1,0 +1,11 @@
+Final Assessment/AI-ML Proposal.docx
+Final Assessment/AI-ML Proposal.pdf
+
+# Ignore docx and pdf files from task folders
+Final Assessment/Task 1/
+Final Assessment/Task 1/*.pdf
+Final Assessment/Task 2/*.docx
+Final Assessment/Task 2/*.pdf
+Final Assessment/Task 3/*.docx
+Final Assessment/Task 3/*.pdf
+
